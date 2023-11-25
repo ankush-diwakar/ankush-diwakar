@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankush Diwakar</h1>
 <h3 align="center">A passionate Android and web developer</h3>
-<img align="right" alt="coding" width=450   src="https://cdn.dribbble.com/users/2442115/screenshots/8699490/media/48bbda278683c7879bebd57f0e2f9271.gif">
+<img align="right" alt="coding" width=450   src="https://cdn-images-1.medium.com/max/603/1*X33360qSEe-urNS4o9Dd-w.gif">
 - 🌱 I’m currently learning **React native**
 
 - 💬 Ask me about **react-native , react , android , JavaScript**
