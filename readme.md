@@ -38,12 +38,12 @@
   </tr>
   
   <tr>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=next" alt="next logo" ><br><sub><sup>Next.js</td>
+<!--     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=next" alt="next logo" ><br><sub><sup>Next.js</td> -->
     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=nodejs" alt="nodejs logo" ><br><sub><sup>Node Js</td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=threejs" alt="three logo" ><br><sub><sup>Three.js</td>
+<!--     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=threejs" alt="three logo" ><br><sub><sup>Three.js</td> -->
   </tr>
   <tr>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=materialui" alt="material logo"><br><sub><sup>Material UI</td>
+<!--     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=materialui" alt="material logo"><br><sub><sup>Material UI</td> -->
     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=tailwind" alt="tailwind logo"><br><sub><sup>Tailwind CSS</td>
     <td align="center"><img height='30' src="https://cdn.simpleicons.org/bootstrap/7952B3" alt="bootstrap logo" ><br><sub><sup>Bootstrap</td>
   </tr>
@@ -85,12 +85,12 @@
   <tr>
     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=androidstudio" alt="androidstudio logo" ><br><sub><sup>Android Studio</td>
     <td align="center"><img height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm logo" ><br><sub><sup>PyCharm</td>
-    <td align="center"><img height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="xcode logo" ><br><sub><sup>Xcode</td>
+<!--     <td align="center"><img height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="xcode logo" ><br><sub><sup>Xcode</td> -->
   </tr>
 
   <tr>
-    <td align="center"><img height='30' src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" alt="aftereffects logo" ><br><sub><sup>After Effects</td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=blender" alt="blender logo" ><br><sub><sup>Blender</td>
+<!--     <td align="center"><img height='30' src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" alt="aftereffects logo" ><br><sub><sup>After Effects</td> -->
+<!--     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=blender" alt="blender logo" ><br><sub><sup>Blender</td> -->
     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=figma" alt="figma logo" ><br><sub><sup>Figma</td>
   </tr>
 </table>
