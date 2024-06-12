@@ -38,16 +38,10 @@
   </tr>
   
   <tr>
-<!--     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=next" alt="next logo" ><br><sub><sup>Next.js</td> -->
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=nodejs" alt="nodejs logo" ><br><sub><sup>Node Js</td>
-<!--     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=threejs" alt="three logo" ><br><sub><sup>Three.js</td> -->
-  </tr>
-  <tr>
-<!--     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=materialui" alt="material logo"><br><sub><sup>Material UI</td> -->
     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=tailwind" alt="tailwind logo"><br><sub><sup>Tailwind CSS</td>
     <td align="center"><img height='30' src="https://cdn.simpleicons.org/bootstrap/7952B3" alt="bootstrap logo" ><br><sub><sup>Bootstrap</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=nodejs" alt="nodejs logo" ><br><sub><sup>Node Js</td>
   </tr>
-  
 
   <tr>
     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=html" alt="html5 logo" ><br><sub><sup>HTML5</td>
@@ -58,7 +52,7 @@
   <tr>
     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=c" alt="c logo" ><br><sub><sup>C</td>
     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=cpp" alt="cplusplus logo" ><br><sub><sup>C++</td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=ts" alt="typescript logo" ><br><sub><sup>TypeScript</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=react" alt="react logo" ><br><sub><sup>React Native</td>
 
   </tr>
 </table>
@@ -66,33 +60,31 @@
 <table align="right">
   <tr>
     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=java" alt="java logo" ><br><sub><sup>Java</td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=kotlin" alt="kotlin logo" ><br><sub><sup>Kotlin</td>
+       <td align="center"><img height='30' src="https://skillicons.dev/icons?i=github" alt="github logo" ><br><sub><sup>GitHub</td>
     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=py" alt="python logo" ><br><sub><sup>Python</td>
   </tr>
 
   <tr>
     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=firebase" alt="firebase logo" ><br><sub><sup>Firebase</td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=github" alt="github logo" ><br><sub><sup>GitHub</td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=vite" alt="vite logo" ><br><sub><sup>Vite</td>
+          <td align="center"><img height='30' src="https://skillicons.dev/icons?i=vite" alt="vite logo" ><br><sub><sup>Vite</td>
+       <td align="center"><img height='30' src="https://skillicons.dev/icons?i=idea" alt="idea logo" ><br><sub><sup>Intellij</td>
+
   </tr>
 
   <tr>
     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=vscode" alt="vscode logo" ><br><sub><sup>VS Code</td>
     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=visualstudio" alt="visualstudio logo" ><br><sub><sup>Visual Studio</td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=idea" alt="idea logo" ><br><sub><sup>Intellij</td>
+       <td align="center"><img height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm logo" ><br><sub><sup>PyCharm</td>
+
   </tr>
 
   <tr>
     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=androidstudio" alt="androidstudio logo" ><br><sub><sup>Android Studio</td>
-    <td align="center"><img height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm logo" ><br><sub><sup>PyCharm</td>
-<!--     <td align="center"><img height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="xcode logo" ><br><sub><sup>Xcode</td> -->
+          <td align="center"><img height='30' src="https://skillicons.dev/icons?i=figma" alt="figma logo" ><br><sub><sup>Figma</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=npm" alt="npm logo" ><br><sub><sup>npm</td>
   </tr>
 
-  <tr>
-<!--     <td align="center"><img height='30' src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" alt="aftereffects logo" ><br><sub><sup>After Effects</td> -->
-<!--     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=blender" alt="blender logo" ><br><sub><sup>Blender</td> -->
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=figma" alt="figma logo" ><br><sub><sup>Figma</td>
-  </tr>
+
 </table>
 
 
