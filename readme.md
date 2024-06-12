@@ -1,5 +1,5 @@
   <img
-    src="https://capsule-render.vercel.app/api?type=wave&height=300&color=0:8871e5,100:b678c4&text=I'm%20Aayush&reversal=true&fontColor=0&stroke=b9a2ff&desc=Chouhan&descAlign=64&descSize=40&descAlignY=60&fontAlign=47&fontAlignY=43&animation=twinkling&textBg=false"
+    src="https://capsule-render.vercel.app/api?type=wave&height=300&color=0:8871e5,100:b678c4&text=I'm%20Ankush&reversal=true&fontColor=0&stroke=b9a2ff&desc=Chouhan&descAlign=64&descSize=40&descAlignY=60&fontAlign=47&fontAlignY=43&animation=twinkling&textBg=false"
     width="100%" />
 
 <h2 align="left">
