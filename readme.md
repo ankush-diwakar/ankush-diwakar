@@ -111,6 +111,6 @@
 [![twitch logo](https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge)](https://www.twitch.tv/techno_aayush)
 
 <img alt="github-snake"
-  src="https://cdn.jsdelivr.net/gh/ankush-diwakar/ankush-diwakar@output/github-contribution-grid-snake-dark.svg" />
+  src="https://cdn.jsdelivr.net/gh/aayushchouhan24/aayushchouhan24@output/github-contribution-grid-snake-dark.svg" />
   
 </div>
